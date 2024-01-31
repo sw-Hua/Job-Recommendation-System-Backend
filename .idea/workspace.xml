@@ -5,14 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1299891-6898-41ad-a25d-994296bbd6df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/java/com/recommandationsystem/recommandTest/JrSystem_DbTestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommandTest/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/recommandTest/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,7 +35,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1/maven-repo" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1" />
+        <option name="mavenHome" value="Use Maven wrapper" />
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../../local/maven/apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -51,6 +62,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -94,6 +106,8 @@
       <workItem from="1706629672985" duration="8000" />
       <workItem from="1706629711603" duration="99000" />
       <workItem from="1706629862311" duration="79000" />
+      <workItem from="1706630199776" duration="1696000" />
+      <workItem from="1706664963285" duration="2208000" />
     </task>
     <servers />
   </component>

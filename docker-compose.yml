@@ -1,6 +1,6 @@
 services:
   postgres:
-    container_name: postgres_container
+    container_name: postgres
     image: postgres
     environment:
       POSTGRES_USER: jrSystem
@@ -9,7 +9,7 @@ services:
     volumes:
       - postgres:/data/postgres
     ports:
-      - "5434:5434"
+      - "5432:5432"
     networks:
       - postgres
     restart: unless-stopped
@@ -23,7 +23,4 @@ services:
     volumes:
       - pgadmin:/var/lib/pgadmin
     ports:
-      - "5051:80"
-    networks:
-      - postgres
-    restart: unless-stopped
+      - "5050:80"
