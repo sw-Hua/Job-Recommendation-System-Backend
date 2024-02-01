@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="recommandTest" />
+        <module name="user" />
         <module name="Job-Recommendation-System-Backend" />
       </profile>
     </annotationProcessing>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Job-Recommendation-System-Backend" options="-parameters" />
       <module name="recommandTest" options="-parameters" />
+      <module name="user" options="-parameters" />
     </option>
   </component>
 </project>
