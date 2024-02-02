@@ -1,10 +1,10 @@
-package com.recommandationsystem.recommandTest;
+package com.jrsystem.eurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RecommandTestApplicationTests {
+class EurekaServerApplicationTests {
 
 	@Test
 	void contextLoads() {

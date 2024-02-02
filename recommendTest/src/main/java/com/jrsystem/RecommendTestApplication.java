@@ -1,13 +1,13 @@
-package com.recommandationsystem.recommandTest;
+package com.jrsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RecommandTestApplication {
+public class RecommendTestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RecommandTestApplication.class, args);
+		SpringApplication.run(RecommendTestApplication.class, args);
 	}
 
 }

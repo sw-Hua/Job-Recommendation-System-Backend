@@ -1,4 +1,4 @@
-package com.recommandationsystem.recommandTest;
+package com.jrsystem;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

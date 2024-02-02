@@ -1,4 +1,4 @@
-package com.recommandationsystem.recommandTest;
+package com.jrsystem;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

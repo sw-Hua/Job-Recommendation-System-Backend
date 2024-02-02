@@ -7,16 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="recommandTest" />
         <module name="user" />
-        <module name="Job-Recommendation-System-Backend" />
+        <module name="recommendTest" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="recommandTest" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Job-Recommendation-System-Backend" options="-parameters" />
+      <module name="Job-Recommendation-System-Backend" options="" />
+      <module name="eureka-server" options="-parameters" />
       <module name="recommandTest" options="-parameters" />
+      <module name="recommendTest" options="-parameters" />
       <module name="user" options="-parameters" />
     </option>
   </component>

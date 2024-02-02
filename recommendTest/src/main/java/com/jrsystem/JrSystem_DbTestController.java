@@ -1,4 +1,4 @@
-package com.recommandationsystem.recommandTest;
+package com.jrsystem;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
