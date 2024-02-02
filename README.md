@@ -100,6 +100,10 @@ https://hackernoon.com/building-java-microservices-from-scratch
 
 
 
+
+
+
+
 ## 几大目标
 
 1. **互联网高并发、海量处理、负载均衡、容错处理：**
