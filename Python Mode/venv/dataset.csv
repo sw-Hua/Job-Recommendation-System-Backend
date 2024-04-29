@@ -1,0 +1,49 @@
+PastJobTitles,Salary,Degree,Major,ProfessionalCertification,BestFitJob,SkillsNeeded,PotentialSalary
+Programmer,5000.00 ,Bachelor's degree or equivalent,Computer Science,Certified Public Accountant (CPA),Programmer,Software Development,5200.00 
+Programmer,4820.00 ,Polytechnic diploma,Computer Science,Certified Information Systems Auditor (CISA),Programmer,JAVA,5028.00 
+Programmer,4930.00 ,Master's or equivalent,Computer Science,Aruba Certified ClearPass Associate (ACCA),Programmer,C++,5730.00 
+Programmer,5210.00 ,At least 1 GCE 'O' Level pass,Computer Science,Certified Financial Planner (CFP),Programmer,Interface Design,6410.00 
+Programmer,5175.00 ,At least 1 GCE 'A'/'H2' Level pass or equivalent (General),Computer Science,Certified Financial Planner (CFP,Programmer,Distributed Computing,5410.00 
+Programmer,5249.00 ,Bachelor's degree or equivalent,Computer Science,Certified Public Accountant (CPA),Programmer,JavaScript,6096.20 
+Programmer,5323.00 ,Polytechnic diploma,Computer Science,Certified Information Systems Auditor (CISA),Programmer,Software Development,6276.40 
+Programmer,5397.00 ,Master's or equivalent,Computer Science,Aruba Certified ClearPass Associate (ACCA),Programmer,JAVA,6456.60 
+Programmer,5471.00 ,At least 2 GCE 'O' Level pass,Computer Science,Certified Financial Planner (CFP),Programmer,C++,6636.80 
+Programmer,5545.00 ,At least 1 GCE 'A'/'H3' Level pass or equivalent (General),Computer Science,Certified Financial Planner (CFP,Programmer,Interface Design,6817.00 
+Programmer,5619.00 ,Bachelor's degree or equivalent,Computer Science,Certified Public Accountant (CPA),Programmer,Distributed Computing,6997.20 
+Programmer,5693.00 ,Polytechnic diploma,Computer Science,Certified Information Systems Auditor (CISA),Programmer,JavaScript,7177.40 
+Programmer,5767.00 ,Master's or equivalent,Computer Science,Aruba Certified ClearPass Associate (ACCA),Programmer,Software Development,7357.60 
+Programmer,5841.00 ,At least 3 GCE 'O' Level pass,Computer Science,Certified Financial Planner (CFP),Programmer,JAVA,7537.80 
+Programmer,5915.00 ,At least 1 GCE 'A'/'H4' Level pass or equivalent (General),Computer Science,Certified Financial Planner (CFP,Programmer,C++,7718.00 
+Programmer,5989.00 ,Bachelor's degree or equivalent,Computer Science,Certified Public Accountant (CPA),Programmer,Interface Design,7898.20 
+Programmer,6063.00 ,Polytechnic diploma,Computer Science,Certified Information Systems Auditor (CISA),Programmer,Distributed Computing,8078.40 
+Programmer,6137.00 ,Master's or equivalent,Computer Science,Aruba Certified ClearPass Associate (ACCA),Programmer,JavaScript,8258.60 
+Accountor,6211.00 ,At least 4 GCE 'O' Level pass,Accounting,Certified Financial Planner (CFP),Accountor,Accounting Software,8438.80 
+Manager,6285.00 ,At least 1 GCE 'A'/'H5' Level pass or equivalent (General),Accounting,Certified Financial Planner (CFP,Manager,Accounting,8619.00 
+Accountor,6359.00 ,Bachelor's degree or equivalent,Accounting,Certified Public Accountant (CPA),Accountor,Audit Management,8799.20 
+Manager,6433.00 ,Polytechnic diploma,Accounting,Certified Information Systems Auditor (CISA),Manager,Internal Auditing,8979.40 
+Accountor,6507.00 ,Master's or equivalent,Accounting,Aruba Certified ClearPass Associate (ACCA),Accountor,Accounting Management,9159.60 
+Manager,6581.00 ,At least 5 GCE 'O' Level pass,Accounting,Certified Financial Planner (CFP),Manager,Accounting Software,9339.80 
+Accountor,6655.00 ,At least 1 GCE 'A'/'H6' Level pass or equivalent (General),Accounting,Certified Financial Planner (CFP,Accountor,Accounting,9520.00 
+Manager,6729.00 ,Bachelor's degree or equivalent,Accounting,Certified Public Accountant (CPA),Manager,Audit Management,9700.20 
+Accountor,6803.00 ,Polytechnic diploma,Accounting,Certified Information Systems Auditor (CISA),Accountor,Internal Auditing,9880.40 
+Manager,6877.00 ,Master's or equivalent,Accounting,Aruba Certified ClearPass Associate (ACCA),Manager,Accounting Management,10060.60 
+Accountor,6951.00 ,At least 6 GCE 'O' Level pass,"Finance, General",Certified Financial Planner (CFP),Accountor,Accounting Software,10240.80 
+Manager,7025.00 ,At least 1 GCE 'A'/'H7' Level pass or equivalent (General),"Finance, General",Certified Financial Planner (CFP,Manager,Accounting,10421.00 
+Accountor,7099.00 ,Bachelor's degree or equivalent,"Finance, General",Certified Public Accountant (CPA),Accountor,Audit Management,10601.20 
+Manager,7173.00 ,Polytechnic diploma,"Finance, General",Certified Information Systems Auditor (CISA),Manager,Internal Auditing,10781.40 
+Accountor,7247.00 ,Master's or equivalent,"Finance, General",Aruba Certified ClearPass Associate (ACCA),Accountor,Accounting Management,10961.60 
+Manager,7321.00 ,At least 7 GCE 'O' Level pass,"Finance, General",Certified Financial Planner (CFP),Manager,Accounting Software,11141.80 
+Accountor,7395.00 ,At least 1 GCE 'A'/'H8' Level pass or equivalent (General),"Finance, General",Certified Financial Planner (CFP,Accountor,Accounting,11322.00 
+Manager,7469.00 ,Bachelor's degree or equivalent,"Finance, General",Certified Public Accountant (CPA),Manager,Audit Management,11502.20 
+Accountor,7543.00 ,Polytechnic diploma,"Finance, General",Certified Information Systems Auditor (CISA),Accountor,Internal Auditing,11682.40 
+Manager,7617.00 ,Master's or equivalent,"Finance, General",Aruba Certified ClearPass Associate (ACCA),Manager,Accounting Management,11862.60 
+Accountor,7691.00 ,At least 8 GCE 'O' Level pass,"Finance, General",Certified Financial Planner (CFP),Accountor,Accounting Software,12042.80 
+Manager,7765.00 ,At least 1 GCE 'A'/'H9' Level pass or equivalent (General),"Finance, General",Certified Financial Planner (CFP,Manager,Accounting,12223.00 
+Accountor,7839.00 ,Bachelor's degree or equivalent,"Finance, General",Certified Public Accountant (CPA),Accountor,Audit Management,12403.20 
+Manager,7913.00 ,Polytechnic diploma,"Finance, General",Certified Information Systems Auditor (CISA),Manager,Internal Auditing,12583.40 
+Accountor,7987.00 ,Master's or equivalent,"Finance, General",Aruba Certified ClearPass Associate (ACCA),Accountor,Accounting Management,12763.60 
+Manager,8061.00 ,At least 9 GCE 'O' Level pass,"Finance, General",Certified Financial Planner (CFP),Manager,Accounting Software,12943.80 
+Accountor,8135.00 ,At least 1 GCE 'A'/'H10' Level pass or equivalent (General),"Finance, General",Certified Financial Planner (CFP,Accountor,Accounting,13124.00 
+Manager,8209.00 ,Bachelor's degree or equivalent,"Finance, General",Certified Public Accountant (CPA),Manager,Audit Management,13304.20 
+Accountor,8283.00 ,Polytechnic diploma,"Finance, General",Certified Information Systems Auditor (CISA),Accountor,Internal Auditing,13484.40 
+Manager,8357.00 ,Master's or equivalent,"Finance, General",Aruba Certified ClearPass Associate (ACCA),Manager,Accounting Management,13664.60 
