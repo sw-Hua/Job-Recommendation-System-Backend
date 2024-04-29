@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d1299891-6898-41ad-a25d-994296bbd6df" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/recommendTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendTest/src/main/java/com/jrsystem/JrSystem_DbTestRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommendTest/src/main/java/com/jrsystem/JrSystem_DbTestRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recommendTest/src/main/java/com/jrsystem/RecommendTestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/recommendTest/src/main/java/com/jrsystem/RecommendTestApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="utyhplfr" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -71,7 +77,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.BusinessServiceApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="DecisionTreePrediction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jrsystem.DecisionTreePrediction" />
+      <module name="recommendTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jrsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="JobRecommandationSystemBackEnd" />
       <method v="2">
@@ -88,6 +107,13 @@
     <configuration name="BusinessServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="business-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrsystem.businessservice.BusinessServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecisionTreePrediction" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="recommendTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jrsystem.DecisionTreePrediction" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -127,6 +153,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DecisionTreePrediction" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -158,6 +189,14 @@
       <workItem from="1706854310951" duration="8819000" />
       <workItem from="1706875708720" duration="70000" />
       <workItem from="1706876375231" duration="19000" />
+      <workItem from="1706877779268" duration="506000" />
+      <workItem from="1706942340144" duration="22000" />
+      <workItem from="1707294814258" duration="1009000" />
+      <workItem from="1709964018206" duration="686000" />
+      <workItem from="1709964860467" duration="3384000" />
+      <workItem from="1709972747690" duration="823000" />
+      <workItem from="1710834478201" duration="445000" />
+      <workItem from="1711114906081" duration="84000" />
     </task>
     <servers />
   </component>
